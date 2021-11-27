@@ -151,10 +151,10 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 # Analytics settings
 
 ## Google Analytics
-ga_track_id: UA-xxxxxx-xx   # Format: UA-xxxxxx-xx
+ga_track_id: UA-80549073-1   # Format: UA-xxxxxx-xx
 
 ## Baidu Analytics
-ba_track_id: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ba_track_id: a2e6f4ab9eb87dbe0cea3c19266e552e
 
 ## Sitemap
 sitemap:
