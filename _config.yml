@@ -380,4 +380,4 @@ theme: livemylife
 deploy:
   type: git
   repo: git@github.com:o1dcorn/o1dcorn.github.io.git # or https://gitee.com/<yourAccount>/<repo>
-  branch: master
+  branch: gh-page
